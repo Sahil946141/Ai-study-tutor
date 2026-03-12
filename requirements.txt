@@ -1,0 +1,17 @@
+fastapi
+
+uvicorn
+
+psycopg2-binary
+
+python-dotenv
+
+pydantic
+
+langchain
+langchain-google-genai
+streamlit
+
+requests
+
+pandas
